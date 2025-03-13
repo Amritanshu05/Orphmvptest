@@ -20,7 +20,7 @@ Get 10 SOL by airdrop and deploy program for localnet.
 npm run deploy
 ```
 
-Run the auction. The specification is same as [solana-auction](https://github.com/yoshidan/solana-auction#Specification)
+Run the auction.
 
 ```
 npm run test
